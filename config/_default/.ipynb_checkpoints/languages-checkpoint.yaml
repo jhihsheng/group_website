@@ -7,11 +7,20 @@ zh-Hant:
   languageCode: zh-Hant
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/zh-Hant
+  params:
+    address:
+     street: 大學路1001號田家炳光電大樓413室
+     city: 新竹
+     region: 台灣
+     postcode: 
+     country: 台灣
+     country_code: TW
+  
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en
-  contentDir: content/en
-  title: Quantum Nano-Optics
+# en:
+#   languageCode: en
+#   contentDir: content/en
+#   title: Quantum Nano-Optics
 #  params:
 #    description: Site description in Chinese...
 #  menu:

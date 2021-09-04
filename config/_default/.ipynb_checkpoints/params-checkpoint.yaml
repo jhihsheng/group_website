@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Mr Robot
 day_night: true
-font: ''
+font: 'Rose'
 font_size: L
 
 # SEO
@@ -20,25 +20,36 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jwu@nycu.edu.tw
+email: "jwu@nycu.edu.tw"
+#email: jwu@nctu.edu.tw
+     
 phone: (03)5712121#56365
 address:
-  street: TKP Hall,1001 University Road
+  street: Rm. 413, TKP Photonic Bldg, 1001 University Road
   city: Hsinchu
   region: Taiwan
   postcode: 
   country: Taiwan
   country_code: TW
+  
+map:
+  provider: 'mapnik'
+  api_key: ''
+  zoom: 20  
 coordinates:
   latitude: '24.787'
   longitude: '120.9950'
+
+#   engine: 2
+#   api_key: ""
+#   zoom: 15
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 # contact_links:
-#   - icon: twitter
+#  - icon: twitter
 #     icon_pack: fab
 #     name: DM Me
 #     link: 'https://twitter.com/Twitter'

@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 助理教授
+    company: 國立陽明交通大學光電系
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: 台灣
+    date_start: '2020-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 博士後研究員
+    company: 中央研究院應用科學中心
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 台灣
+    date_start: '2020-01-01'
+    date_end: '2020-07-20'
+    description: 奈米光學
+
+  - title: 博士後研究員
+    company: 喬治亞大學奈米光學中心
+    company_url: ''
+    company_logo: 
+    location: 美國
+    date_start: '2017-01-01'
+    date_end: '2019-12-28'
+    description: 奈米雷射   
 
 design:
   columns: '2'
