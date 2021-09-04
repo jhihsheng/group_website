@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publicaiton/example/TS'
+url_pdf: 'publication/example/TS.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
