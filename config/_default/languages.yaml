@@ -9,7 +9,7 @@ zh-Hant:
   contentDir: content/zh-Hant
   params:
     address:
-     street: 大學路1001號田家炳光電大樓413室
+     street: 田家炳光電大樓413室, 大學路1001號
      city: 新竹
      region: 台灣
      postcode: 

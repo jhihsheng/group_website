@@ -146,6 +146,9 @@ comments:
     url: ''
 search:
   provider: wowchemy
+  wowchemy:
+    min_length: 1  # Only the matches whose length exceeds this value will be returned.
+    threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   algolia:
     app_id: ''
     api_key: ''
@@ -156,7 +159,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-YS6X4M0WBE'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

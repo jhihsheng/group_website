@@ -16,15 +16,18 @@ main:
  # - name: Talks
   #  url: '#talks'
   #  weight: 40
-  - name: Publications
-    url: 'publication'
+  - name: Highlights
+    url: '#featured'
     weight: 50
   - name: Team
     url: 'team'
-    weight: 52    
+    weight: 52   
+  - name: Publication
+    url: 'pub_list'
+    weight: 56     
   - name: Map
     url: '#map'
-    weight: 55
+    weight: 58
   - name: Contact
     url: '#contact'
     weight: 60
