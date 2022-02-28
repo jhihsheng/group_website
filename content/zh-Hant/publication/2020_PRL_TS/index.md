@@ -6,7 +6,8 @@ share: false  #
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-
+- Vadym Apalkov
+- Mark I Stockman
 # Author notes (optional)
 
 date: "2020-01-01T00:00:00Z"

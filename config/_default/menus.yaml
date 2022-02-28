@@ -23,14 +23,17 @@ main:
     url: 'team'
     weight: 52   
   - name: Publication
-    url: 'pub_list'
+    url: 'publication'
     weight: 56     
+  - name: Tecahing
+    url: 'courses'
+    weight: 58        
   - name: Map
     url: '#map'
-    weight: 58
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 62
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
