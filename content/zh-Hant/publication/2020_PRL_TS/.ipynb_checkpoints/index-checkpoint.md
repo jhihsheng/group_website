@@ -23,8 +23,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review Letter*
-publication_short: In *Physical Review Letter*
+publication: In *Physical Review Letters*
+publication_short: In *Physical Review Letters*
 
 abstract: We theoretically introduce a topological spaser, which consists of a hexagonal array of plasmonic metal nanoshells containing an achiral gain medium in their cores.  Such a spaser can generate two mutually time-reversed chiral surface plasmon modes in the valleys $K$ and $K'$, which carry the opposite topological charges $\pm 1$, and are described by a two-dimensional $E'$ representation of the $D_{3h}$ point symmetry group. Due to the mode competition, this spaser exhibits a bistability$:$ only one of these two modes generates, which is a spontaneous symmetry breaking. Such a spaser can be used for an ultrafast all-optical memory and information processing, and biomedical detection and sensing with chirality resolution.
 

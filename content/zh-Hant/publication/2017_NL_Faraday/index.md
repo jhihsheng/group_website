@@ -32,8 +32,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nano Letter*
-publication_short: In *Nano Letter*
+publication: In *Nano Letters*
+publication_short: In *Nano Letters*
 
 abstract: Using magneto-infrared spectroscopy, we have explored the charge dynamics of (Bi,Sb)$_2$Te$_3$ thin films on InP substrates. From the magneto-transmission data we extracted three distinct cyclotron resonance (CR) energies that are all apparent in the broad band Faraday rotation (FR) spectra. This comprehensive FR-CR data set has allowed us to isolate the response of the bulk states from the intrinsic surface states associated with both the top and bottom surfaces of the film. The FR data uncovered that electron- and hole-type Dirac Fermions reside on opposite surfaces of our films, which paves the way for observing many exotic quantum phenomena in topological insulators.
 # Summary. An optional shortened abstract.

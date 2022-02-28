@@ -32,8 +32,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nano Letter*
-publication_short: In *Nano Letter*
+publication: In *Nano Letters*
+publication_short: In *Nano Letters*
 
 abstract: We report on nano-infrared (IR) imaging studies of confined plasmon modes inside patterned graphene nanoribbons (GNRs) fabricated with high-quality chemical-vapor-deposited (CVD) graphene on Al$_2$O$_3$ substrates. The confined geometry of these ribbons leads to distinct mode patterns and strong field enhancement, both of which evolve systematically with the ribbon width. In addition, spectroscopic nanoimaging in the mid-infrared range 850–1450 cm$^{–1}$ allowed us to evaluate the effect of the substrate phonons on the plasmon damping. Furthermore, we observed edge plasmons$:$ peculiar one-dimensional modes propagating strictly along the edges of our patterned graphene nanostructures.
 

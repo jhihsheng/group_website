@@ -31,8 +31,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nano Letter*
-publication_short: In *Nano Letter*
+publication: In *Nano Letters*
+publication_short: In *Nano Letters*
 
 abstract: We report a nanoinfrared (IR) imaging study of the localized plasmon resonance modes of graphene nanoribbons (GNRs) using a scattering-type scanning near-field optical microscope (s-SNOM). By comparing the imaging data of GNRs that are aligned parallel and perpendicular to the in-plane component of the excitation laser field, we observed symmetric and asymmetric plasmonic interference fringes, respectively. Theoretical analysis indicates that the asymmetric fringes are formed due to the interplay between the localized surface plasmon resonance (SPR) mode excited by the GNRs and the propagative surface plasmon polariton (SPP) mode launched by the s-SNOM tip. With rigorous simulations, we reproduce the observed fringe patterns and address quantitatively the role of the s-SNOM tip on both the SPR and SPP modes. Furthermore, we have seen real-space signatures of both the dipole and higher-order SPR modes by varying the ribbon width.
 
