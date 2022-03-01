@@ -41,6 +41,4 @@ plt.show()
 
 
 
-```python
-
-```
+## To test uploading from desktop
