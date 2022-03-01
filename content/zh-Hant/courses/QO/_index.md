@@ -10,9 +10,11 @@ weight: 10
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
-
+[comment]: 
 {{< toc hide_on="xl" >}}
+
+
+
 
 ## What you will learn
 
@@ -28,9 +30,7 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 {{< list_children >}}
 
-## Meet your instructor
 
-{{% mention "admin" %}}
 
 ## FAQs
 
