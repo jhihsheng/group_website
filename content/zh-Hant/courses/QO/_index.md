@@ -18,13 +18,23 @@ type: book
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Quantum theory of lights and light-matter interaction
+- Mathematical techniques and physical pictures to understand current research papers 
+- Latest developments in research and technology
 
-## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+## Lecture Notes in 2021
+Below are the lecture notes of 2021.
+
+- [QO_note_1.pdf](/QO_2021/QO_note_1.pdf)
+- [QO_note_2.pdf](/QO_2021/QO_note_2.pdf)
+- [QO_note_3.pdf](/QO_2021/QO_note_3.pdf)
+- [QO_note_4.pdf](/QO_2021/QO_note_4.pdf)
+- [QO_note_5.pdf](/QO_2021/QO_note_5.pdf)
+- [QO_note_6.pdf](/QO_2021/QO_note_6.pdf)
+- [QO_note_7.pdf](/QO_2021/QO_note_7.pdf)
+- [QO_note_8.pdf](/QO_2021/QO_note_8.pdf)
+- [QO_note_9.pdf](/QO_2021/QO_note_9.pdf)
 
 ## Courses in this program
 
