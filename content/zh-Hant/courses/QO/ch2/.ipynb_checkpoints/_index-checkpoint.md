@@ -1,7 +1,7 @@
 ---
-title: 📊 Light-Matter
-linkTitle: Light-Matter
-summary: We will learn a minimum set of quantum formulation of light. 
+title: 📊 Light-Matter Interactions
+linkTitle: Light-Matter Interactions
+summary: Theories of light-matter interactions where light is treated both classically and quantumly.
 authors: ["admin"]
 date: '2022-02-23'
 
@@ -22,13 +22,9 @@ type: book
 
 The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
-## Courses in this program
+## Topics in this Courses
 
 {{< list_children >}}
-
-## Meet your instructor
-
-{{% mention "admin" %}}
 
 ## FAQs
 

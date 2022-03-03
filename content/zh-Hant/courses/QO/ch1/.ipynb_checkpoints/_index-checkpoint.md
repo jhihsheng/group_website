@@ -1,10 +1,10 @@
 ---
 title: 📊 Field Quantization
 linkTitle: Field Quantization
-summary: We will learn a minimum set of quantum formulation of light. 
+summary: Using the concepts of harmonic oscillators to quantize fields
 authors: ["admin"]
 date: '2022-02-23'
-bookCollapseSection: true
+
 type: book
 ---
 
