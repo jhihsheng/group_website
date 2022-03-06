@@ -17,9 +17,9 @@ import matplotlib.pyplot as plt
 ```
 
 We begin with the number basis. 'a = destroy()' genrerates the annillation operator in the numner basis. 
-$$ a = \begin{pmatrix} 0 & 0 & 0&\dots\\\\\\
-                       1 & 0 &  0&\dots\\\\\\
-                       0 &\sqrt{2}&0&\dots\\\\\\
+$$ a = \begin{pmatrix} 0 & 0 & 0&\dots\\\\
+                       1 & 0 &  0&\dots\\\\
+                       0 &\sqrt{2}&0&\dots\\\\
                        0 & 0 &\sqrt{3} &\ddots              
                        \end{pmatrix}  $$
 Then, we write $x$ and $p$ operators in the number basis,
