@@ -40,7 +40,7 @@ experience:
     description: 奈米光學
 
   - title: 博士後研究員
-    company: 喬治亞大學奈米光學中心
+    company: 喬治亞州立大學奈米光學中心
     company_url: ''
     company_logo: 
     location: 美國

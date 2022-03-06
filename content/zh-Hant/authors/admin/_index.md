@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: PhD in Physics
-    institution: 加州聖地牙哥大學
+    institution: 加州大學聖地牙哥分校 UCSD
     year: 2016
   - course: MS in Physics
     institution: 國立臺灣大學

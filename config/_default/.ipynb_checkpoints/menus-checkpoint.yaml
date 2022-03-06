@@ -25,7 +25,7 @@ main:
   - name: Publications
     url: 'publication'
     weight: 56     
-  - name: Tecahing
+  - name: Teaching
     url: 'courses'
     weight: 58        
   - name: Map
