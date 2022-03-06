@@ -17,11 +17,11 @@ import matplotlib.pyplot as plt
 ```
 
 We begin with the number basis. 'a = destroy()' genrerates the annillation operator in the numner basis. 
-$$ a = \begin{pmatrix} 0 & 0 & 0&\dots\\\\
+$$ a = \begin{bmatrix} 0 & 0 & 0&\dots\\\\
                        1 & 0 &  0&\dots\\\\
                        0 &\sqrt{2}&0&\dots\\\\
                        0 & 0 &\sqrt{3} &\ddots              
-                       \end{pmatrix}  $$
+                       \end{bmatrix}  $$
 Then, we write $x$ and $p$ operators in the number basis,
 $$ x = \frac{a+a^{\dagger}}{2}, \\
    p  = \frac{a-a^{\dagger}}{2i},$$
