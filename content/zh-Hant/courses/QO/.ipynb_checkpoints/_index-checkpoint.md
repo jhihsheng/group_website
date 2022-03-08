@@ -24,16 +24,17 @@ type: book
 
 ## Lecture Notes in 2022
 To be upadted
+
 | Topics  |      2022                   | 
 |----------|----------------------------|
-| review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)  |
+| review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)| 
 
 ## Lecture Notes in 2021
 Below are the lecture notes of 2021.
 
 | Topics  |      2021                   | 
 |----------|----------------------------|
-| review of quantum mechanics | [QO_note_1.pdf](/QO_2021/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2021/QO_note_2.pdf)| |
+| review of quantum mechanics | [QO_note_1.pdf](/QO_2021/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2021/QO_note_2.pdf)| 
 | field quantization |   [QO_note_3.pdf](/QO_2021/QO_note_3.pdf)    | 
 |coherent states|[QO_note_4.pdf](/QO_2021/QO_note_4.pdf) |
 |phase space of photon states|[QO_note_5.pdf](/QO_2021/QO_note_5.pdf) |
