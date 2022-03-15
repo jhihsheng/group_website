@@ -29,6 +29,8 @@ To be upadted
 |----------|----------------------------|:------------------------:|
 | review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)|   March 9, 2022| 
 
+Book with all the notes:  [QO_book.pdf](/QO_2022/QO_book.pdf) (March 15, 2022)
+
 ## Lecture Notes in 2021
 Below are the lecture notes of 2021.
 
