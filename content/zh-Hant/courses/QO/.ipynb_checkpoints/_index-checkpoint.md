@@ -27,7 +27,8 @@ To be upadted
 
 | Topics  |      2022                   | Lasted updated date|        
 |----------|----------------------------|:------------------------:|
-| review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)|   March 9, 2022| 
+| review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)|   March 16, 2022| 
+|quantization of field|[QO_note_3.pdf](/QO_2022/QO_note_3.pdf)|March 16, 2022|
 
 Book with all the notes:  [QO_book.pdf](/QO_2022/QO_book.pdf) (March 15, 2022)
 
