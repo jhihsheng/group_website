@@ -13,7 +13,7 @@ type: book
 - Ising model 的理論
 - 以 python 寫量子退火演算法
 - 使用 Amazon 雲端接觸真正的量子位元
-- 以光學理論建構等物理模型，給出適當的物理參數已進行優化
+- 以光學理論建構等物理模型，給出適當的物理參數以進行優化
 
 
 
@@ -24,7 +24,7 @@ $$H(\sigma) = - \sum_{\langle i~j\rangle} J_{ij}\sigma_i \sigma_j - h \sum_j \si
 
 ### 最佳化問題
 
-許多重要的計算問題，其複雜度可能與資料的大小是指數關係，因此當處理較大資料時，即使使用最好的電腦也無法再合理的時間內給出答案。著名的問題有
+許多重要的計算問題，其複雜度可能與資料的大小是指數關係，因此當處理較大資料時，即使使用最好的電腦也無法在合理的時間內給出答案。著名的問題有
 - [旅行推銷員問題](https://zh.wikipedia.org/wiki/%E6%97%85%E8%A1%8C%E6%8E%A8%E9%94%80%E5%91%98%E9%97%AE%E9%A2%98)
 - [蛋白質摺疊](https://en.wikipedia.org/wiki/Protein_structure_prediction)
 - [行程安排](https://en.wikipedia.org/wiki/Job-shop_scheduling)

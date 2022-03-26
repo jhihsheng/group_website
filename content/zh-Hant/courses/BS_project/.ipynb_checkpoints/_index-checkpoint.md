@@ -1,7 +1,7 @@
 ---
 title: 📊 大學部專題
 linkTitle: 大學部專題
-summary: 光電系大三大四專題研究，電磁學的研究方向有光子晶體、電漿晶體、拓樸光子波導、量子光學元件設計、量子計算應用
+summary: 光電系大三大四專題研究，研究方向有光子晶體、電漿晶體、拓樸光子波導、量子光學元件設計、量子計算應用
 authors: ["admin"]
 date: '2022-03-25'
 bookCollapseSection: true

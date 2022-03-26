@@ -19,7 +19,7 @@ type: book
 光子晶體其實就是有週期結構的介電材料，
 也就是介電函數 $\epsilon$ 是一個位置的週期函數。
 ![png](/uploads/pc_1.png)
-根據 Bloch Theory 只要是週期的結構，就會造成能帶結構，底下是一個二維光子晶體的例子，
+根據 [Bloch's theorem](https://en.wikipedia.org/wiki/Bloch%27s_theorem) 只要是週期的結構，就會造成能帶結構，底下是一個二維光子晶體的例子，
 ![png](/uploads/pc_2.png)
 光子能隙也被用來製造各種光學元件，在90年代後有了更多實驗與商業上的使用。
 ![png](/uploads/pc_3.png)
