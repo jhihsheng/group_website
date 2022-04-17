@@ -1,5 +1,5 @@
 ---
-title: 📊 Introduction to Quantum Optics
+title:  Introduction to Quantum Optics
 linkTitle: Quantum Optics
 summary: We will learn a minimum set of quantum formulation of light. We will explore the latest research developments.
 authors: ["admin"]

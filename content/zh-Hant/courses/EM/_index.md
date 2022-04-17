@@ -1,5 +1,5 @@
 ---
-title: 📊 Electrodynamics
+title:  Electrodynamics
 linkTitle: Electrodynamics
 summary: We will learn vector analysis, electrostatics, magnetostatics, Maxwell's equations 
 authors: ["admin"]
