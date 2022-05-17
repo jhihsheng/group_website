@@ -31,7 +31,7 @@ To be upadted
 |quantization of field|[QO_note_3.pdf](/QO_2022/QO_note_3.pdf)|March 23, 2022|
 |coherent states|[QO_note_4.pdf](/QO_2022/QO_note_4.pdf)|March 29, 2022|
 |phase space picture|[QO_note_5.pdf](/QO_2022/QO_note_5.pdf)|April 12, 2022|
-|light-matter interaction|[QO_note_6.pdf](/QO_2022/QO_note_6.pdf) <br> [QO_note_7.pdf](/QO_2022/QO_note_7.pdf)|May 10, 2022|
+|light-matter interaction|[QO_note_6.pdf](/QO_2022/QO_note_6.pdf) <br> [QO_note_7.pdf](/QO_2022/QO_note_7.pdf)|May 17, 2022|
 |photon counting statistics|[QO_photon_stat.pdf](/QO_2022/QO_photon_stat.pdf)|April 27, 2022|
 
 Book with all the notes:  [QO_book.pdf](/QO_2022/QO_book.pdf) (March 15, 2022)
