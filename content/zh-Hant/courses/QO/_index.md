@@ -33,6 +33,8 @@ To be upadted
 |phase space picture|[QO_note_5.pdf](/QO_2022/QO_note_5.pdf)|April 12, 2022|
 |light-matter interaction|[QO_note_6.pdf](/QO_2022/QO_note_6.pdf) <br> [QO_note_7.pdf](/QO_2022/QO_note_7.pdf)|May 17, 2022|
 |photon counting statistics|[QO_photon_stat.pdf](/QO_2022/QO_photon_stat.pdf)|April 27, 2022|
+|correlation and coherence functions|[QO_note_8.pdf](/QO_2022/QO_note_8.pdf)|May 24, 2022|
+|non-classical lights|[Non-Classical_Lights.pdf](/QO_2022/Non-Classical_Lights.pdf)|May 24, 2022|
 
 Book with all the notes:  [QO_book.pdf](/QO_2022/QO_book.pdf) (March 15, 2022)
 
