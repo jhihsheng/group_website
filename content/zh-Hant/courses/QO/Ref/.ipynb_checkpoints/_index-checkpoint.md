@@ -12,3 +12,4 @@ course-material_2019_2020
 More about light-matter interaction
 - Course by Poul Jessen https://wp.optics.arizona.edu/opti544/
 - Conprehensive Book by Daniel A. Steck https://atomoptics.uoregon.edu/~dsteck/teaching/quantum-optics/
+- Teaching videos by Prof. Dr. Immanuel Bloch https://youtube.com/playlist?list=PLNMgVqt8MREzCQbgPxBiHKlFbV7Xszkds
