@@ -6,9 +6,8 @@ weight: 90
 type: book
 ---
 Course materials on the web:
-- Cousre by Gary Steele, which contain python demo with jupyter notebook  https://gitlab.tudelft.nl/gsteele/quantum-sensing-
+- Cousre by Gary Steele, which contain python demo with jupyter notebook  https://gitlab.tudelft.nl/gsteele/quantum-sensing-course-material_2019_2020
 - Quantum Electronics by Oskar Painter https://copilot.caltech.edu/classes/aph190
-course-material_2019_2020
 More about light-matter interaction
 - Course by Poul Jessen https://wp.optics.arizona.edu/opti544/
 - Conprehensive Book by Daniel A. Steck https://atomoptics.uoregon.edu/~dsteck/teaching/quantum-optics/
