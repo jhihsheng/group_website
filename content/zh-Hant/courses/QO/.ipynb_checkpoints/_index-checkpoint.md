@@ -25,8 +25,8 @@ type: book
 ## Lecture Notes in 2022
 To be upadted
 
-| Topics  |      2022                   | Lasted updated date|        
-|----------|----------------------------|:------------------------:|
+| Topics  |      2022                   | Lastest update date|        
+|----------|----------------------------|------------------------|
 | review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)|   May 30, 2022| 
 |quantization of field|[QO_note_3.pdf](/QO_2022/QO_note_3.pdf)|March 23, 2022|
 |coherent states|[QO_note_4.pdf](/QO_2022/QO_note_4.pdf)|March 29, 2022|
@@ -35,6 +35,7 @@ To be upadted
 |photon counting statistics|[QO_photon_stat.pdf](/QO_2022/QO_photon_stat.pdf)|April 27, 2022|
 |correlation and coherence functions|[QO_note_8.pdf](/QO_2022/QO_note_8.pdf)|May 24, 2022|
 |non-classical lights|[Non-Classical_Lights.pdf](/QO_2022/Non-Classical_Lights.pdf)|May 24, 2022|
+|beam splitters and squeezing|[QO_note_9.pdf](/QO_2022/QO_note_9.pdf)|May 31, 2022|
 
 Book with all the notes:  [QO_book.pdf](/QO_2022/QO_book.pdf) (March 15, 2022)
 
