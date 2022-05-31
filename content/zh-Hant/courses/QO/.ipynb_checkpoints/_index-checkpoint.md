@@ -55,7 +55,7 @@ Below are the lecture notes of 2021.
 |Qauntum Information|[QO_Quantum_Information.pdf](/QO_2021/QO_Quantum_Information.pdf)|
 
 
-## Topics in this Courses
+## Topics in this Course
 
 {{< list_children >}}
 
