@@ -7,9 +7,10 @@ weight: 2
 superuser: no
 
 # Role/position/tagline
-role: 碩士生
+role: 畢業碩士生 <br> <br> 08/2020 to 09/2022<br> Now at 景碩科技 <br> Thesis <span>&#58;</span> Time-domain calculations of plasmonic crystals   
 
-user_groups: ["MS"]
+      
+user_groups: ["Graduated Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,4 +27,7 @@ interests:
  - 計算電磁學
 
 # Education to show in About widget
+# Job
+Jobs:
+
 ---

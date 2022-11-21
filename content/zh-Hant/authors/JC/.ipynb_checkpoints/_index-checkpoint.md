@@ -7,9 +7,9 @@ weight: 1
 superuser: no
 
 # Role/position/tagline
-role: 碩士生
-
-user_groups: ["MS"]
+role: 畢業碩士生 <br><br>08/2020 to 09/2022<br> Now at TSMC(台積電)  <br> Thesis <span>&#58;</span> active control of photonic crystal slabs
+         
+user_groups: ["Graduated Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,6 +24,10 @@ interests:
  - 主動元件
  - 光子晶體
  - 計算電磁學
+ 
 
 # Education to show in About widget
+# Job
+
+
 ---
