@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Maroon"
-  gradient_end = "Navy"
+  gradient_start = "Crimson"
+  gradient_end = "RoyalBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 
-### 歡迎**博士生**、**碩士生**與**大學專題生**加入我們的團隊！有興趣的同學歡迎來聊聊 [Contact]({{< relref "#contact" >}})! 我們主要的研究方式為**理論推導**、使用**模擬工具**與寫**程式**，並訓練學生具備分析與瞭解物理圖像的能力。本團隊適合以下背景的同學(以及所有具有熱忱興趣的同學!)
+### 歡迎**博士生**、**碩士生**與**大學專題生**加入我們的團隊！有興趣的同學歡迎來聊聊 [Contact]({{< relref "#contact" >}})! 我們主要的研究方式為**理論推導**、使用**模擬工具**與寫**程式**，並訓練學生具備分析與瞭解物理圖像的能力，目前的研究計畫可參考 [Projects]({{< relref "project" >}})。本團隊適合以下背景的同學(以及所有具有熱忱興趣的同學!)
 
 - 物理：以理論凝態物理的角度，運用量子力學、固態物理等研究奈米尺度光與物質的交互作用。
 - 光電：以光學與電磁學角度，結合量子力學，運用在量子科技。
