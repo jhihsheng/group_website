@@ -25,16 +25,16 @@ type: book
 ## Lecture Notes in 2023
 To be upadted
 
-| Topics  |      2023                   | Lastest update date|        
+| Topics  |      2023                   | Latest update date|        
 |----------|----------------------------|------------------------|
 | review of quantum mechanics | [QO_note_1](/QO_2023/QO_note_1_review_QM.pdf) |   March 28, 2023| 
 |quantization of field|[QO_note_2](/QO_2023/QO_note_2_field_quantization.pdf)|March 28, 2023|
-|coherent state and phase space|[QO_note_3.pdf](/QO_2023/QO_note_3_coherent_state_and_phase_space_description.pdf)|March 28, 2023|
+|coherent state and phase space|[QO_note_3](/QO_2023/QO_note_3_coherent_state_and_phase_space_description.pdf)|March 28, 2023|
 
 
 ## Lecture Notes in 2022
 
-| Topics  |      2022                   | Lastest update date|        
+| Topics  |      2022                   | Latest update date|        
 |----------|----------------------------|------------------------|
 | review of quantum mechanics | [QO_note_1.pdf](/QO_2022/QO_note_1.pdf)   <br/>[QO_note_2.pdf](/QO_2022/QO_note_2.pdf)|   May 30, 2022| 
 |quantization of field|[QO_note_3.pdf](/QO_2022/QO_note_3.pdf)|March 23, 2022|
