@@ -27,9 +27,9 @@ To be upadted
 
 | Topics  |      2023                   | Lastest update date|        
 |----------|----------------------------|------------------------|
-| review of quantum mechanics | [QO_note_1_review_QM.pdf](/QO_2023/QO_note_1_review_QM.pdf) |   March 28, 2023| 
-|quantization of field|[QO_note_2_field_quantization.pdf](/QO_2023/QO_note_2_field_quantization.pdf)|March 28, 2023|
-|coherent state and phase space|[QO_note_3_coherent_state_and_phase_space_description.pdf](/QO_2023/QO_note_3_coherent_state_and_phase_space_description.pdf)|March 28, 2023|
+| review of quantum mechanics | [QO_note_1](/QO_2023/QO_note_1_review_QM.pdf) |   March 28, 2023| 
+|quantization of field|[QO_note_2](/QO_2023/QO_note_2_field_quantization.pdf)|March 28, 2023|
+|coherent state and phase space|[QO_note_3.pdf](/QO_2023/QO_note_3_coherent_state_and_phase_space_description.pdf)|March 28, 2023|
 
 
 ## Lecture Notes in 2022
