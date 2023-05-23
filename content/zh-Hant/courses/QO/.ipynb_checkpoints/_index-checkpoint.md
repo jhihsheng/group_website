@@ -31,8 +31,7 @@ To be upadted
 |quantization of field|[QO_note_2](/QO_2023/QO_note_2_field_quantization.pdf)|April 12, 2023|
 |coherent state and phase space|[QO_note_3](/QO_2023/QO_note_3_coherent_state_and_phase_space_description.pdf)|March 28, 2023|
 |light-matter interaction|[QO_note_4](/QO_2023/QO_note_4_light_matter_interaction.pdf)|April 19, 2023|
-|non-classical light|[QO_note_5](/QO_2023/QO_note_5_non-classical_light.pdf)<br/>[slides](/QO_2023/Non-Classical_Lights.pdf)<br/>[slides](/QO_2023/QO_photon_stat.pdf)
-|May 23, 2023|
+|non-classical light|[QO_note_5](/QO_2023/QO_note_5_non-classical_light.pdf)<br/>[slides](/QO_2023/Non-Classical_Lights.pdf)<br/>[slides](/QO_2023/QO_photon_stat.pdf)|May 23, 2023|
 |optical components|[QO_note_6](/QO_2023/QO_note_6_optical_components_and_measurement.pdf)|May 23, 2023|
 
 
