@@ -23,7 +23,6 @@ type: book
 - Latest developments in research and technology
 
 ## Lecture Notes in 2023
-To be upadted
 
 | Topics  |      2023                   | Latest update date|        
 |----------|----------------------------|------------------------|
