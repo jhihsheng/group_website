@@ -4,7 +4,7 @@ linkTitle: Field Quantization
 summary: Using the concepts of harmonic oscillators to quantize fields
 authors: ["admin"]
 date: '2022-02-23'
-weight: 10
+weight: 20
 
 type: book
 ---

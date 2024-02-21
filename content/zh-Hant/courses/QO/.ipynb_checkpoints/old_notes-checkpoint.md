@@ -1,32 +1,9 @@
 ---
-title:  Introduction to Quantum Optics
-linkTitle: Quantum Optics
-summary: We will learn a minimum set of quantum formulation of light. We will explore the latest research developments.
+title: Past Lecture Notes  
 authors: ["admin"]
-date: '2022-02-23'
-bookCollapseSection: true
-weight: 10
-
 type: book
+weight: 15
 ---
-
-[comment]: 
-{{< toc hide_on="xl" >}}
-
-
-
-
-## What you will learn
-
-- Quantum theory of lights and light-matter interaction
-- Mathematical techniques and physical pictures to understand current research papers 
-- Latest developments in research and technology
-
-## Lecture Notes in 2024
-
-| Topics  |      2024                   | Latest update date|        
-|----------|----------------------------|------------------------|
-| review of quantum mechanics | [QO_note_1](/QO_2024/QO_note_1_review_QM.pdf) |   Feb 21, 2024| 
 
 ## Lecture Notes in 2023
 
@@ -71,17 +48,3 @@ Below are the lecture notes of 2021.
 |Correlation and Coherence Functions| [QO_note_8.pdf](/QO_2021/QO_note_8.pdf)|   
  |Beam Splitter and Nonclassical Light|[QO_note_9.pdf](/QO_2021/QO_note_9.pdf)|
 |Qauntum Information|[QO_Quantum_Information.pdf](/QO_2021/QO_Quantum_Information.pdf)|
-
-
-## Topics in this Course
-
-{{< list_children >}}
-
-
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-Linear algebra, quantum physics or modern physics.
-{{< /spoiler >}}
-
