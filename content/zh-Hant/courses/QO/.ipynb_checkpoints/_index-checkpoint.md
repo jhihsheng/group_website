@@ -3,7 +3,7 @@ title:  Introduction to Quantum Optics
 linkTitle: Quantum Optics
 summary: We will learn a minimum set of quantum formulation of light. We will explore the latest research developments.
 authors: ["admin"]
-date: '2022-02-23'
+date: '2024-02-19'
 bookCollapseSection: true
 weight: 10
 
@@ -26,8 +26,9 @@ type: book
 
 | Topics  |      2024                   | Latest update date|        
 |----------|----------------------------|------------------------|
-| review of quantum mechanics | [QO_note_1](/QO_2024/QO_note_1_review_QM.pdf) |   Feb 21, 2024| 
-| field quantization | [QO_note_2](/QO_2024/QO_note_2_field_quantization.pdf) |   Mar 19, 2024| 
+| review of quantum mechanics | [QO_note_1](/QO_2024/QO_note_1_review_QM.pdf) |   Apr 2, 2024| 
+| field quantization | [QO_note_2](/QO_2024/QO_note_2_field_quantization.pdf) |   Apr 2, 2024| 
+| coherent state and phase space descriptions | [QO_note_3](/QO_2024/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 2, 2024| 
 
 
 ## Topics in this Course

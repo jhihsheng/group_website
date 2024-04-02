@@ -1,6 +1,7 @@
 ---
 title: Past Lecture Notes  
 authors: ["admin"]
+summary: Past Lecture Notes
 type: book
 weight: 15
 ---
