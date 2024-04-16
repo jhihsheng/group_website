@@ -28,7 +28,8 @@ type: book
 |----------|----------------------------|------------------------|
 | review of quantum mechanics | [QO_note_1](/QO_2024/QO_note_1_review_QM.pdf) |   Apr 2, 2024| 
 | field quantization | [QO_note_2](/QO_2024/QO_note_2_field_quantization.pdf) |   Apr 2, 2024| 
-| coherent state and phase space descriptions | [QO_note_3](/QO_2024/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 2, 2024| 
+| coherent state and phase space descriptions | [QO_note_3](/QO_2024/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 16, 2024| 
+| light matter interaction | [QO_note_4](/QO_2024/QO_note_4_light_matter_interaction.pdf) |   Apr 16, 2024|
 
 
 ## Topics in this Course
