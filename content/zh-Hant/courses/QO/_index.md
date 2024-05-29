@@ -31,6 +31,7 @@ type: book
 | coherent state and phase space descriptions | [QO_note_3](/QO_2024/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 16, 2024| 
 | light matter interaction | [QO_note_4](/QO_2024/QO_note_4_light_matter_interaction.pdf) |   Apr 16, 2024|
 | correlation Functions and nonclassical light | [QO_note_5](/QO_2024/QO_note_5_non-classical_light.pdf) |   May 1, 2024|
+| optical components and measurements | [QO_note_6](/QO_2024/QO_note_6_optical_components_and_measurement.pdf) |   May 29, 2024|
 
 
 ## Topics in this Course
