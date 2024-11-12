@@ -8,7 +8,7 @@ superuser: no
 
 # Role/position/tagline
 role: 專題生 
-user_groups: ["Undergraduate Research"]
+user_groups: ["Graduated Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:

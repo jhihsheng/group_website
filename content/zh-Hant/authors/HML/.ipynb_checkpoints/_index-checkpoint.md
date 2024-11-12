@@ -2,13 +2,13 @@
 # Display name 
 title: 林賀名
 
-weight: 2
+weight: 3
 # Is this the primary user of the site?
 superuser: no
 
 # Role/position/tagline
-role: 碩士生 
-user_groups: ["MS"]
+role: 畢業碩士生 <br> <br> 2022 to 2024 <br> Thesis <span>&#58;</span> Inverse design of superoscillation with quantum annealing  
+user_groups: ["Graduated Students"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
