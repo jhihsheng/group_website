@@ -6,6 +6,20 @@ type: book
 weight: 15
 ---
 
+
+## Lecture Notes in 2024
+
+| Topics  |      2024                   | Latest update date|        
+|----------|----------------------------|------------------------|
+| review of quantum mechanics | [QO_note_1](/QO_2024/QO_note_1_review_QM.pdf) |   Apr 2, 2024| 
+| field quantization | [QO_note_2](/QO_2024/QO_note_2_field_quantization.pdf) |   Apr 2, 2024| 
+| coherent state and phase space descriptions | [QO_note_3](/QO_2024/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 16, 2024| 
+| light matter interaction | [QO_note_4](/QO_2024/QO_note_4_light_matter_interaction.pdf) |   Apr 16, 2024|
+| correlation Functions and nonclassical light | [QO_note_5](/QO_2024/QO_note_5_non-classical_light.pdf) |   May 1, 2024|
+| optical components and measurements | [QO_note_6](/QO_2024/QO_note_6_optical_components_and_measurement.pdf) |   May 29, 2024|
+
+
+
 ## Lecture Notes in 2023
 
 | Topics  |      2023                   | Latest update date|        
