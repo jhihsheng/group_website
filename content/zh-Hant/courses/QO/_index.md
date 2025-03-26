@@ -27,7 +27,7 @@ type: book
 | Topics  |      2025                  | Latest update date|        
 |----------|----------------------------|------------------------|
 | review of quantum mechanics | [QO_note_1](/QO_2025/QO_note_1_review_QM.pdf) |   Feb 26, 2025| 
-
+| field quantization | [QO_note_2](/QO_2025/QO_note_2_field_quantization.pdf) |   Mar 26, 2025| 
 
 ## Topics in this Course
 
