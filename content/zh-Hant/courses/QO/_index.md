@@ -29,6 +29,7 @@ type: book
 | review of quantum mechanics | [QO_note_1](/QO_2025/QO_note_1_review_QM.pdf) |   Feb 26, 2025| 
 | field quantization | [QO_note_2](/QO_2025/QO_note_2_field_quantization.pdf) |   Mar 26, 2025| 
 | coherent state and phase space descriptions | [QO_note_3](/QO_2025/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 2, 2025| 
+| light matter interaction | [QO_note_4](/QO_2025/QO_note_4_light_matter_interaction.pdf) |   Apr 9, 2025|
 
 ## Topics in this Course
 
