@@ -72,4 +72,4 @@ subtitle = ""
 
 ### 理論研究的日常
 
-[理論研究的一天?請看此pdf](/uploads/qno_project_research.pdf)
+[理論研究的一天?請看此pdf](/uploads/qno_project_research_2026.pdf)
