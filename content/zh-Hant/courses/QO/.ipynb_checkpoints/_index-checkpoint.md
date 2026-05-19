@@ -29,10 +29,14 @@ type: book
 | review of quantum mechanics | [QO_note_1](/QO_2026/QO_note_1_review_QM.pdf) |   Feb 25, 2026| 
 | field quantization | [QO_note_2](/QO_2026/QO_note_2_field_quantization.pdf) |   Apr 19, 2026| 
 | coherent state and phase space descriptions | [QO_note_3](/QO_2026/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 7, 2026| 
+<<<<<<< HEAD
 | light matter interaction | [QO_note_4](/QO_2026/QO_note_4_light_matter_interaction.pdf) |   Apr 22, 2026|
 | correlation Functions and nonclassical light | [QO_note_5](/QO_2026/QO_note_5_non-classical_light.pdf) |   May 19, 2026|
 | non-classical lights|[Non-Classical_Lights.pdf](/QO_2026/Non-Classical_Lights.pdf)|May 19, 2026|
 
+=======
+| light matter interaction | [QO_note_4](/QO_2026/QO_note_4_light_matter_interaction.pdf) |   Apr 29, 2026|
+>>>>>>> 3fa2b1254a3ba4687f7cb772e30c223939b124ec
 
 ## Topics in this Course
 
