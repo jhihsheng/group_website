@@ -30,9 +30,9 @@ type: book
 | field quantization | [QO_note_2](/QO_2026/QO_note_2_field_quantization.pdf) |   Apr 19, 2026| 
 | coherent state and phase space descriptions | [QO_note_3](/QO_2026/QO_note_3_coherent_state_and_phase_space_description.pdf) |   Apr 7, 2026| 
 | light matter interaction | [QO_note_4](/QO_2026/QO_note_4_light_matter_interaction.pdf) |   Apr 22, 2026|
-| correlation Functions and nonclassical light | [QO_note_5](/QO_2026/QO_note_5_non-classical_light.pdf) |   May 19, 2026|
+| correlation functions and nonclassical light | [QO_note_5](/QO_2026/QO_note_5_non-classical_light.pdf) |   May 19, 2026|
 | non-classical lights|[Non-Classical_Lights.pdf](/QO_2026/Non-Classical_Lights.pdf)|May 19, 2026|
-
+| beam splitter and boson sampling | [QO_note_6](/QO_2026/QO_note_6_beam_splitter_and_boson_sampling.pdf) |   May 27, 2026|
 
 ## Topics in this Course
 
